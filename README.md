@@ -37,24 +37,15 @@ When I’m not immersed in research or coding, you’ll often find me sharpening
 - **Seq2Seq Transliteration of Indian Names**: Built an RNN-based model with attention mechanism for transliterating names into Hindi, achieving BLEU: 0.8569 and reducing token error rates.  
 - **Sentiment Classification**: Created models using rule-based classifiers and Word2Vec-based architectures, achieving up to 72% accuracy.  
 
----
 
 ### 🤖 **Machine Learning (ML) Projects**  
 - **Fine-Tuning GPT using LoRA**: Efficiently fine-tuned GPT-2 for linguistic acceptability, reducing trainable parameters by 99.5% and achieving 85.83% accuracy.  
 - **Knowledge Distillation**: Transferred knowledge from GPT-2 to a smaller RNN model, achieving 79.26% accuracy on CoLA dataset.  
 - **Image Classification and Contrastive Learning**: Implemented softmax regression and CNNs on CIFAR-10, achieving 82.38% validation accuracy with contrastive learning techniques.  
 
----
-
 ### 📊 **Data Analytics Projects**  
 - **Community Detection**: Applied **Girvan-Newman** and **Louvain algorithms** to real-world datasets, uncovering modularity-based communities effectively.  
   
-
----
-
-
-
----
 
 ### 🤖 **Robotics Projects**  
 - **Three-Wheeled Holonomic Drive System**: Built a robotic platform for motion planning using deduced reckoning localization.  
