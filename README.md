@@ -25,7 +25,7 @@ When I’m not immersed in research or coding, you’ll often find me sharpening
 
 
 ## 🔬 **Research and Projects**  
----
+
 ### 💻 **Systems and Optimization Projects**  
 - **Accelerating Recommendation Systems (Thesis)**: Optimized inference by replacing traditional embedding tables with hash embeddings, reducing memory usage by 80%.  
 - **Dilated Convolution Optimization**: Enhanced performance through multi-threading, CUDA GPU implementation, and SIMD vectorization.
