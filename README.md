@@ -18,19 +18,43 @@ I thrive at the intersection of **machine learning**, **natural language process
 
 ## 🔬 **Research and Projects**  
 
-- **Accelerating Recommendation Systems**  
-  [M.Tech Thesis | Ongoing | Advisor: Prof. R. Govindarajan]  
-  Reducing embedding table sizes by 80% with hash embeddings and efficient representations without compromising accuracy.  
+Here’s a concise version of your projects, classified by type:
 
-- **Low-Resource Language Translation**  
-  Fine-tuned **LLaMA, Mistral**, and others using **PEFT** and **LoRA**, achieving a BLEU score improvement of 4 points with limited data.  
+---
 
-- **Seq2Seq Transliteration for Indian Names**  
-  Built an RNN-based encoder-decoder model with attention, achieving **BLEU: 0.8569** and reducing token error rates significantly.  
+### 📝 **Natural Language Processing (NLP) Projects**  
+- **Low-Resource Language Translation**: Fine-tuned state-of-the-art LLMs like **LLaMA** and **Mistral**, improving BLEU scores by 4 points for Hindi-English and English-Assamese translations using PEFT and LoRA.  
+- **Seq2Seq Transliteration of Indian Names**: Built an RNN-based model with attention mechanism for transliterating names into Hindi, achieving BLEU: 0.8569 and reducing token error rates.  
+- **Sentiment Classification**: Created models using rule-based classifiers and Word2Vec-based architectures, achieving up to 72% accuracy.  
 
-- **Community Detection**  
-  Implemented algorithms like **Louvain** and **Girvan-Newman** on real-world datasets, achieving modularity-based detection of communities.  
+---
 
+### 🤖 **Machine Learning (ML) Projects**  
+- **Fine-Tuning GPT using LoRA**: Efficiently fine-tuned GPT-2 for linguistic acceptability, reducing trainable parameters by 99.5% and achieving 85.83% accuracy.  
+- **Knowledge Distillation**: Transferred knowledge from GPT-2 to a smaller RNN model, achieving 79.26% accuracy on CoLA dataset.  
+- **Image Classification and Contrastive Learning**: Implemented softmax regression and CNNs on CIFAR-10, achieving 82.38% validation accuracy with contrastive learning techniques.  
+
+---
+
+### 📊 **Data Analytics Projects**  
+- **Community Detection**: Applied **Girvan-Newman** and **Louvain algorithms** to real-world datasets, uncovering modularity-based communities effectively.  
+- **Hardware Performance Profiling**: Analyzed branch predictors (GShare, Perceptron, TAGE) on SPEC benchmarks, achieving up to 98.5% accuracy in hybrid configurations.  
+
+---
+
+### 💻 **Systems and Optimization Projects**  
+- **Accelerating Recommendation Systems (Thesis)**: Optimized inference by replacing traditional embedding tables with hash embeddings, reducing memory usage by 80%.  
+- **Dilated Convolution Optimization**: Enhanced performance through multi-threading, CUDA GPU implementation, and SIMD vectorization.  
+
+---
+
+### 🤖 **Robotics Projects**  
+- **Three-Wheeled Holonomic Drive System**: Built a robotic platform for motion planning using deduced reckoning localization.  
+- **Autonomous Quadruped Jumping Robot**: Designed a four-legged robot with adaptive gaits and real-time sensing using LIDAR and gyroscopes.  
+
+---
+
+This classification keeps it structured while highlighting your expertise across domains. Let me know if you’d like any further refinements!
 For more, visit my repositories:  
 [GitHub Projects](https://github.com/chinmayjainnnn)  
 
