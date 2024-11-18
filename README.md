@@ -23,8 +23,6 @@ When I’m not immersed in research or coding, you’ll often find me sharpening
 
 --- 
 
-Let me know if you'd like to enhance any other section!
----
 
 ## 🔬 **Research and Projects**  
 ---
