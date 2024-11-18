@@ -17,9 +17,6 @@ I thrive at the intersection of **machine learning**, **natural language process
 ---
 
 ## 🔬 **Research and Projects**  
-
-Here’s a concise version of your projects, classified by type:
-
 ---
 
 ### 📝 **Natural Language Processing (NLP) Projects**  
