@@ -6,12 +6,15 @@
 
 ---
 
-## About Me  
+### 👋 About Me
 
-Hi there! I am **Chinmay Jain**, a passionate and dedicated M.Tech student specializing in Computer Science and Engineering at the **Indian Institute of Science (IISc), Bangalore**. My journey in tech began with curiosity-driven projects and evolved into cutting-edge research on **accelerating inference for recommendation systems** and exploring **large language models** for low-resource languages.  
+Hi! I’m **Chinmay Jain**, a passionate researcher and engineer currently pursuing my **M.Tech in Computer Science and Engineering** at the **Indian Institute of Science (IISc), Bangalore**. With a strong foundation in Electrical Engineering and professional experience at **Deloitte India**, I have cultivated a unique blend of analytical thinking and hands-on technical expertise.
 
-I thrive at the intersection of **machine learning**, **natural language processing**, and **high-performance computing**. Whether it’s optimizing neural networks or translating complex concepts into practical solutions, I aim to make a tangible impact through technology.
+My academic journey has led me to specialize in **Machine Learning**, **Natural Language Processing (NLP)**, and **High-Performance Computing**, where I explore innovative solutions to complex problems. I am particularly focused on optimizing **recommendation systems** by eliminating traditional embedding tables and leveraging advanced hashing techniques to achieve significant memory and computational efficiency without compromising accuracy.
 
+I’m deeply motivated by the challenge of bridging the gap between theoretical insights and real-world applications. Whether it's developing models to improve linguistic accessibility, enhancing the computational performance of AI systems, or building autonomous robotics solutions, I strive to make a meaningful impact in the field of technology.
+
+When I’m not immersed in research or coding, you’ll often find me sharpening my skills in chess, hitting the badminton court or watching anime. I believe in the power of interdisciplinary growth and the importance of combining creativity with technical rigor to solve problems effectively.
 ---
 
 ## 🔬 **Research and Projects**  
