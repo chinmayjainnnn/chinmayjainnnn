@@ -1,5 +1,3 @@
-Here's a GitHub bio draft based on your resume, personal statement, and experiences:
-
 ---
 
 # Chinmay Jain  
