@@ -1,13 +1,17 @@
 ---
+
 <div align="center">
-# Chinmay Jain  
+
+# **Chinmay Jain**  
 ### M.Tech in Computer Science and Engineering @ IISc Bangalore  
-📧 **chinmayjain@iisc.ac.in** | 🌐 **[GitHub](https://github.com/chinmayjainnnn)** | 🖇️ **[LinkedIn](https://www.linkedin.com/in/chinmay-jain-b7822816b/)**  
+📧 **chinmayjain@iisc.ac.in**  
+🌐 [🔗 GitHub](https://github.com/chinmayjainnnn) | [🔗 LinkedIn](https://www.linkedin.com/in/chinmay-jain-b7822816b/)  
+
+</div>
 
 ---
 
-### 👋 About Me
-</div>
+### 👋 About Me  
 
 Hi! I’m **Chinmay Jain**, a passionate researcher and engineer currently pursuing my **M.Tech in Computer Science and Engineering** at the **Indian Institute of Science (IISc), Bangalore**. With a strong foundation in Electrical Engineering and professional experience at **Deloitte India**, I have cultivated a unique blend of analytical thinking and hands-on technical expertise.
 
@@ -15,8 +19,11 @@ My academic journey has led me to specialize in **Machine Learning**, **Natural 
 
 I’m deeply motivated by the challenge of bridging the gap between theoretical insights and real-world applications. Whether it's developing models to improve linguistic accessibility, enhancing the computational performance of AI systems, or building autonomous robotics solutions, I strive to make a meaningful impact in the field of technology.
 
- When I’m not immersed in research or coding, you’ll often find me sharpening my skills in chess, hitting the badminton court or watching anime. I believe in the power of interdisciplinary growth and the importance of combining creativity with technical rigor to solve problems effectively.
+When I’m not immersed in research or coding, you’ll often find me sharpening my skills in chess, hitting the badminton court, or enjoying anime. I believe in the power of interdisciplinary growth and the importance of combining creativity with technical rigor to solve problems effectively.
 
+--- 
+
+Let me know if you'd like to enhance any other section!
 ---
 
 ## 🔬 **Research and Projects**  
