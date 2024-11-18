@@ -14,8 +14,8 @@ My academic journey has led me to specialize in **Machine Learning**, **Natural 
 
 I’m deeply motivated by the challenge of bridging the gap between theoretical insights and real-world applications. Whether it's developing models to improve linguistic accessibility, enhancing the computational performance of AI systems, or building autonomous robotics solutions, I strive to make a meaningful impact in the field of technology.
 
-When I’m not immersed in research or coding, you’ll often find me sharpening my skills in chess, hitting the badminton court or watching anime. I believe in the power of interdisciplinary growth and the importance of combining creativity with technical rigor to solve problems effectively.
----
+**When I’m not immersed in research or coding, you’ll often find me sharpening my skills in chess, hitting the badminton court or watching anime. I believe in the power of interdisciplinary growth and the importance of combining creativity with technical rigor to solve problems effectively.
+**---
 
 ## 🔬 **Research and Projects**  
 ---
