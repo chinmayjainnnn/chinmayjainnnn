@@ -1,5 +1,5 @@
 ---
-
+<div align="center">
 # Chinmay Jain  
 ### M.Tech in Computer Science and Engineering @ IISc Bangalore  
 📧 **chinmayjain@iisc.ac.in** | 🌐 **[GitHub](https://github.com/chinmayjainnnn)** | 🖇️ **[LinkedIn](https://www.linkedin.com/in/chinmay-jain-b7822816b/)**  
@@ -7,6 +7,7 @@
 ---
 
 ### 👋 About Me
+</div>
 
 Hi! I’m **Chinmay Jain**, a passionate researcher and engineer currently pursuing my **M.Tech in Computer Science and Engineering** at the **Indian Institute of Science (IISc), Bangalore**. With a strong foundation in Electrical Engineering and professional experience at **Deloitte India**, I have cultivated a unique blend of analytical thinking and hands-on technical expertise.
 
