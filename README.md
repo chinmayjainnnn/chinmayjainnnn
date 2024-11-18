@@ -16,6 +16,11 @@ I thrive at the intersection of **machine learning**, **natural language process
 
 ## 🔬 **Research and Projects**  
 ---
+### 💻 **Systems and Optimization Projects**  
+- **Accelerating Recommendation Systems (Thesis)**: Optimized inference by replacing traditional embedding tables with hash embeddings, reducing memory usage by 80%.  
+- **Dilated Convolution Optimization**: Enhanced performance through multi-threading, CUDA GPU implementation, and SIMD vectorization.
+- **Hardware Performance Profiling**: Analyzed branch predictors (GShare, Perceptron, TAGE) on SPEC benchmarks, achieving up to 98.5% accuracy in hybrid configurations.
+
 
 ### 📝 **Natural Language Processing (NLP) Projects**  
 - **Low-Resource Language Translation**: Fine-tuned state-of-the-art LLMs like **LLaMA** and **Mistral**, improving BLEU scores by 4 points for Hindi-English and English-Assamese translations using PEFT and LoRA.  
@@ -33,13 +38,11 @@ I thrive at the intersection of **machine learning**, **natural language process
 
 ### 📊 **Data Analytics Projects**  
 - **Community Detection**: Applied **Girvan-Newman** and **Louvain algorithms** to real-world datasets, uncovering modularity-based communities effectively.  
-- **Hardware Performance Profiling**: Analyzed branch predictors (GShare, Perceptron, TAGE) on SPEC benchmarks, achieving up to 98.5% accuracy in hybrid configurations.  
+  
 
 ---
 
-### 💻 **Systems and Optimization Projects**  
-- **Accelerating Recommendation Systems (Thesis)**: Optimized inference by replacing traditional embedding tables with hash embeddings, reducing memory usage by 80%.  
-- **Dilated Convolution Optimization**: Enhanced performance through multi-threading, CUDA GPU implementation, and SIMD vectorization.  
+
 
 ---
 
@@ -57,16 +60,16 @@ For more, visit my repositories:
 
 ## 🎓 **Education**  
 
-- **M.Tech**, Computer Science and Engineering | IISc Bangalore | 2023–2025 | CGPA: 7.5/10  
-- **B.Tech**, Electrical Engineering | Nirma University | 2018–2022 | CGPA: 7.44/10  
+- **M.Tech**, Computer Science and Engineering | IISc Bangalore | 2023–2025  
+- **B.Tech**, Electrical Engineering | Nirma University | 2018–2022 
 
 ---
 
 ## 🛠️ **Skills**  
 
-**Programming Languages**: C, C++, Python, SQL  
-**Libraries & Tools**: PyTorch, NumPy, TensorFlow, Scikit-Learn, Pandas  
-**Techniques**: Transformers, CNNs, RNNs, Contrastive Learning, Knowledge Distillation  
+**Programming Languages**: C, C++, Python, SQL 
+**Libraries & Tools**: PyTorch, NumPy, TensorFlow, Scikit-Learn, Pandas, git, pandas
+**ML/DL**: Transformers, CNNs, RNNs, Contrastive Learning, Knowledge Distillation , PCA, SVM, LSTM/GRU, BERT, GPT, RAG.
 
 ---
 
@@ -75,12 +78,15 @@ For more, visit my repositories:
 - Natural Language Processing  
 - Machine Learning  
 - High-Performance Computer Architecture  
-- Computational Geometry  
-- Systems for Machine Learning  
+- Probability And Statistics 
+- Systems for Machine Learning
+- Data Analytics
+- Design And Analysis of Algorithms
+- Applied Linear Algebra And Optimisation
 
 ---
 
-## 👨‍💻 **Professional Experience**  
+## 👨‍💻 **Experience**  
 
 - **Analyst**, Deloitte India  
   Streamlined data migration processes and optimized reporting systems using SAP-ERP and ABAP tools.  
@@ -90,18 +96,8 @@ For more, visit my repositories:
 
 ---
 
-## 🌟 **Achievements**  
-
-- **GATE 2023**: AIR 148 (CSE)  
-- **ABU Robocon 2019**: National Rank 2; Fastest Job Completion Award  
-- Published **two research papers** on gesture recognition and NLP applications.  
-
----
-
 ## 🤝 **Let’s Collaborate!**  
 
 I am always eager to explore opportunities in machine learning, natural language processing, and high-performance computing. Feel free to reach out for collaborations, research, or brainstorming innovative ideas!  
 
 --- 
-
-How does this look? Let me know if you'd like any edits or specific additions!
