@@ -44,19 +44,13 @@ When I’m not immersed in research or coding, you’ll often find me sharpening
 - **Image Classification and Contrastive Learning**: Implemented softmax regression and CNNs on CIFAR-10, achieving 82.38% validation accuracy with contrastive learning techniques.  
 
 ### 📊 **Data Analytics Projects**  
-- **Community Detection**: Applied **Girvan-Newman** and **Louvain algorithms** to real-world datasets, uncovering modularity-based communities effectively.  
+- **Community Detection**: Applied **Girvan-Newman** and **Louvain algorithms** to real-world datasets, uncovering modularity-based communities effectively.
   
 
 ### 🤖 **Robotics Projects**  
 - **Three-Wheeled Holonomic Drive System**: Built a robotic platform for motion planning using deduced reckoning localization.  
-- **Autonomous Quadruped Jumping Robot**: Designed a four-legged robot with adaptive gaits and real-time sensing using LIDAR and gyroscopes.  
-
----
-
-This classification keeps it structured while highlighting your expertise across domains. Let me know if you’d like any further refinements!
-For more, visit my repositories:  
-[GitHub Projects](https://github.com/chinmayjainnnn)  
-
+- **Autonomous Quadruped Jumping Robot**: Designed a four-legged robot with adaptive gaits and real-time sensing using LIDAR and gyroscopes.
+- 
 ---
 
 ## 🎓 **Education**  
